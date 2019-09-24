@@ -4,7 +4,7 @@ class AwsGoogleAuth < Formula
   desc "Acquire AWS credentials using Google Apps"
   homepage "https://github.com/cevoaustralia/aws-google-auth"
   url "https://github.com/cevoaustralia/aws-google-auth/archive/0.0.32.tar.gz"
-  sha256 "d5ac9776ecfe0b0d6daa9cc160b2614e4c53fa37633528e3f661efc58fd24754"
+  sha256 "c70b81e451c4b0ca5172b409cf5b4445e670006252f762351fdd7460f01c634b"
   head "https://github.com/cevoaustralia/aws-google-auth.git"
 
   bottle do
